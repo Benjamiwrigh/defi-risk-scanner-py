@@ -9,3 +9,4 @@ eth-abi==2.7.2
 eth-abi==2.8.2
 eth-abi==2.4.8
 pydantic==2.2.6
+eth-abi==1.5.0
