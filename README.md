@@ -4,3 +4,4 @@
 - Update note 7784
 - Update note 8997
 - Update note 8287
+- Update note 6860
