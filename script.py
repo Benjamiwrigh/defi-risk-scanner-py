@@ -48,3 +48,4 @@
 # fix 2666
 # fix 2815
 # optimize 7262
+# fix 3936
