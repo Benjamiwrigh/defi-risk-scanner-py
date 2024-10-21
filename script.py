@@ -45,3 +45,4 @@
 # fix 4051
 # fix 1683
 # optimize 2134
+# fix 2666
