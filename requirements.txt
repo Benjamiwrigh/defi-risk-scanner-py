@@ -1,1 +1,2 @@
 # auto-createdpydantic==1.6.7
+pydantic==2.2.8
